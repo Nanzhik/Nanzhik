@@ -198,7 +198,7 @@ Here are some ideas to get you started:
 
 
 # Моя статистика: 
-![Github stats] (https://github-readme-stats.vercel.app/api?username=Nanzhik&show_icons=true&&hide=issues,contribs)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Nanzhik&show_icons=true&&hide=issues,contribs)
 
 
 [telegram]: https://t.me/Andrei_Kononiuk
