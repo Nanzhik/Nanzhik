@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br />
 
 # Резюме:
- - [Резюме]()
+ - [Резюме](https://github.com/Nanzhik/Nanzhik/blob/main/Andrei-Kononiuk-CV.pdf)
 
 # Сертификаты:
  - Яндекс.Практикум: Специалист по Data Science [RUS]()
