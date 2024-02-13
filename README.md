@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 <tr>
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Яндекс.Практикум: Специалист по Data Science</a></td>
   <td>Дистанционная</td>
-  <td>В процессе обучения</td>
+  <td>Закончен</td>
 </tr> 
 <tr>
-  <td>Нетология: Искусственный интеллект создайте свою первую нейросеть</a></td>
+  <td>Нетология: создание нейросети</a></td>
   <td>Дистанционная</td>
   <td>Закончен</td>
 </tr>  
